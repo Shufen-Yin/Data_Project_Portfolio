@@ -28,8 +28,7 @@ This folder contains two SQL data analysis projects, demonstrating database desi
   - SQL queries with UNION ALL, aggregation, and sorting  
   - Basic data analysis and insight  
 - **How to run:**  
-```bash
-python data_parsing_analysis.py
+How to run: `python data_parsing_analysis.py`
 
 See also: `data_parsing_analysis/README.md` and report for screenshots and examples.
 
