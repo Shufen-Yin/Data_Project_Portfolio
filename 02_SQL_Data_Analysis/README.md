@@ -31,4 +31,5 @@ This folder contains two SQL data analysis projects, demonstrating database desi
 ```bash
 python data_parsing_analysis.py
 
-See also:data_parsing_analysis/README.md and report for screenshots and examples. 
+See also: `data_parsing_analysis/README.md` and report for screenshots and examples.
+
