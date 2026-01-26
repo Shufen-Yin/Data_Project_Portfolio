@@ -27,8 +27,7 @@ This folder contains two SQL data analysis projects, demonstrating database desi
   - SQLite database operations  
   - SQL queries with UNION ALL, aggregation, and sorting  
   - Basic data analysis and insight  
-- **How to run:**  
-How to run: `python data_parsing_analysis.py`
+- **How to run:**  open `python data_parsing_analysis.py`
 
 See also: `data_parsing_analysis/README.md` and report for screenshots and examples.
 
