@@ -1,7 +1,5 @@
 # SQL Data Analysis Projects
 
-**Author:** Shufen Yin  
-
 This folder contains two SQL data analysis projects, demonstrating database design, ETL, and analysis skills.
 
 ---
