@@ -62,12 +62,11 @@ For actual analysis, use the CSV files in the data_parsing_analysis project.
 
 
 **Sample Output**
-```
+
 Top Products & Trend Analysis in images/top10.png
 Customer Sentiment Analysis  in  images/sentiment.png
 
- Empty table shown as placeholder. Replace with actual data once CSV is imported.
-```
+Empty table shown as placeholder. Replace with actual data once CSV is imported.
 
 **Skills Demonstrated**
 -  Database design & management
