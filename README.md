@@ -1,38 +1,91 @@
-# **Shufen Yin – Data Project Portfolio**
+# Shufen Yin – Data Project Portfolio
 
-**Skills:** Data Analysis | Data Engineering | Machine Learning | Visualization | Python | SQL | Jupyter | Google Colab
+**Skills:** Data Analysis | Data Engineering | Machine Learning | Visualization  
+**Tools:** Python | SQL | Jupyter | Google Colab | Power BI | Tableau
 
-This portfolio demonstrates my ability to handle **data end-to-end**, from **cleaning and feature engineering** to **modeling, evaluation, and visualization**. Projects are real-world examples showing my analytical and problem-solving skills.
-
----
-
-## **Core Projects (from basic to advanced)**
-
-- **Sales Analyst (Store Monthly Sale)** – monthly trends, product insights, Python visualizations  
-- **SQL Data Analysis** – Customer_Feedback_DB & data_parsing_analysis.py for ETL, reporting, and automation  
-- **Medical Cost Prediction** – regression models predicting patient costs *(optional clustering for insights)*  
-- **Credit Card Fraud Detection** – classification workflow, ETL, model evaluation  
-- **Stock Signal Prediction** – time series forecasting and regression modeling  
-- **Customer Segmentation** – K-Means clustering for targeted marketing  
-- **Anomaly Detection** – detecting outliers and unusual patterns  
-- **PCA_Neural_Network** – dimensionality reduction + neural network modeling  
-- **BI / Visualization** – Power BI (NYC Collision), Tableau (Coffee Brand Review, Fatal Police Shooting)
-
-> Each project includes a **notebook**, **PDF report**, dataset (or link), and a project-level README.
+This portfolio demonstrates my ability to handle data projects end-to-end — from data cleaning and feature engineering to analysis, modeling, evaluation, and visualization.  
+All projects are based on real-world datasets and focus on generating actionable insights.
 
 ---
 
-## **Skills & Tools**
+## Core Projects – Organized from Basic to Advanced
 
-- **Python:** pandas, numpy, matplotlib, seaborn  
-- **SQL & ETL:** data cleaning, feature engineering, pipelines, automation  
-- **Machine Learning:** Regression, Classification, Clustering, Time Series, PCA, Neural Networks, Anomaly Detection  
-- **Visualization:** Matplotlib, Seaborn, Tableau, Power BI  
-- **Evaluation & Reporting:** Accuracy, Precision, Recall, F1, ROC-AUC, RMSE, R²; PDF/Markdown reports  
+### 1️⃣ Sales Analysis – Monthly Sales Insights
+Retail sales analysis using Python to explore monthly trends, seasonality, top products, category and regional performance, including MoM and YoY growth.
+- **Skills:** Data cleaning, time-series aggregation, business insights
+- **Tools:** pandas, matplotlib, seaborn  
+🔗 **Project Folder:**  
+https://github.com/Shufen-Yin/Data_Project_Portfolio/tree/main/01_Basic_Data_Analysis/Sales_Analysis
 
 ---
 
-## **Contact**
+### 2️⃣ SQL Data Analysis & ETL
+Customer feedback database and automated data parsing pipeline using SQL and Python for ETL, reporting, and analysis.
+- **Skills:** SQL querying, ETL design, automation
+- **Tools:** SQL, Python, SQLite  
+🔗 **Project Folder:**  
+https://github.com/Shufen-Yin/Data_Project_Portfolio/tree/main/02_SQL_Data_Analysis
+
+---
+
+### 3️⃣ Healthcare Analytics – Medical Cost Prediction
+Regression-based analysis to predict patient medical costs, including feature engineering, model evaluation, and optional clustering for insights.
+- **Skills:** Regression, feature engineering, model evaluation
+- **Tools:** Python, scikit-learn  
+🔗 **Project Folder:**  
+https://github.com/Shufen-Yin/Data_Project_Portfolio/tree/main/03_Heathlcare_Analytics/Medical_Cost_Prediction
+
+---
+
+### 4️⃣ Python Machine Learning Projects
+A collection of applied machine learning projects covering classification, regression, time series, and predictive modeling.
+- **Projects include:**  
+  - Credit Card Fraud Detection  
+  - Stock Signal Prediction  
+- **Skills:** ML pipelines, model evaluation, data preprocessing  
+🔗 **Project Folder:**  
+https://github.com/Shufen-Yin/Data_Project_Portfolio/tree/main/04_Python_ML_Projects
+
+---
+
+### 5️⃣ Advanced Analysis & Modeling
+Advanced analytical techniques including clustering, anomaly detection, dimensionality reduction, and neural networks.
+- **Projects include:**  
+  - Customer Segmentation (K-Means)  
+  - Anomaly Detection  
+  - PCA + Neural Network Modeling  
+- **Skills:** Unsupervised learning, advanced modeling  
+🔗 **Project Folder:**  
+https://github.com/Shufen-Yin/Data_Project_Portfolio/tree/main/05_Advanced_Analysis
+
+---
+
+### 6️⃣ BI & Data Visualization
+Business intelligence and visualization projects using industry-standard tools.
+- **Projects include:**  
+  - Power BI: NYC Collision Analysis  
+  - Tableau: Coffee Brand Reviews, Fatal Police Shooting  
+- **Skills:** Dashboard design, storytelling with data  
+🔗 **Project Folder:**  
+https://github.com/Shufen-Yin/Data_Project_Portfolio/tree/main/06_Data_Visualization
+
+---
+
+## Skills & Tools Summary
+
+- **Programming:** Python (pandas, numpy, matplotlib, seaborn)
+- **SQL & ETL:** Data cleaning, feature engineering, pipelines, automation
+- **Machine Learning:** Regression, Classification, Clustering, Time Series, PCA, Neural Networks, Anomaly Detection
+- **Visualization:** Matplotlib, Seaborn, Power BI, Tableau
+- **Evaluation & Reporting:** Accuracy, Precision, Recall, F1, ROC-AUC, RMSE, R²; PDF and Markdown reports
+
+---
+
+## Contact
+
+- **Email:** mickeyyinabc@gmail.com  
+- **LinkedIn:** https://linkedin.com/in/yourprofile  
+- **GitHub:** https://github.com/Shufen-Yin
 
 - **Email:** mickeyyinabc@gmail.com  
 - **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
