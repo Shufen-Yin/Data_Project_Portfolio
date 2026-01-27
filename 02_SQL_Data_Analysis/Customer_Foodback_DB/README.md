@@ -58,24 +58,24 @@ Data Import Example
 EXEC ImportCustomerSurvey @FilePath = N'C:\Data\CustomerSurvey.csv';
 This procedure imports CSV data into the Staging table, then bulk inserts it into the Reviews table.
 For actual analysis, use the CSV files in the data_parsing_analysis project.
+```
 
 
-Sample Output
-
+**Sample Output**
+```
 Top Products & Trend Analysis in images/top10.png
 Customer Sentiment Analysis  in  images/sentiment.png
 
  Empty table shown as placeholder. Replace with actual data once CSV is imported.
+```
 
-Empty table shown as placeholder. Replace with actual data once CSV is imported.
+**Skills Demonstrated**
+-  Database design & management
 
-Skills Demonstrated
-Database design & management
+-  SQL query & analysis (aggregates, conditional statements, date formatting)
 
-SQL query & analysis (aggregates, conditional statements, date formatting)
+-  Data cleaning & ETL using Staging tables
 
-Data cleaning & ETL using Staging tables
-
-Customer feedback trend & sentiment analysis
+-  Customer feedback trend & sentiment analysis
 
 Tip: For full data analysis and visualizations, refer to the data_parsing_analysis project using the same CSV datasets.
