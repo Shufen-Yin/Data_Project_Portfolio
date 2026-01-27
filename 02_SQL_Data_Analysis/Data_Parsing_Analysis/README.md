@@ -46,11 +46,16 @@ customer_id | avg_rating | reviews
 3           | 2.33       | 3
 ```
 
-Keyword Counts: 
-damaged: 2, late: 3, defective: 1
+**Keyword Frequency**
+```
+- damaged: 0  
+- late: 2  
+- defective: 0  
+```
 
-Monthly Rating Trend: 
-2025-01: 4.2 (10), 2025-02: 3.8 (8)
+**Monthly Rating Trend**
+
+2024-01: avg_rating = 4.0, reviews = 3
 
 **Tech Highlights**
 
