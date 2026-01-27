@@ -30,7 +30,7 @@ Credit_Card_Fraud_Detection/
 │ ├── creditcard_sample.csv # Small sample dataset (~5,000 rows)
 │ └── CreditCardFraud_Sample.ipynb
 ├── CreditCardFraud_Full_ETL_Demo/
-│ └── CreditCardFraud_Full_ETL.ipynb # Full ETL & pipeline workflow with random data
+│ └── CreditCardFraud_Full_ETL_Demo.ipynb # Full ETL & pipeline workflow with random data
 
 ### Sample Project
 - **Purpose**: Quick demo using a real small sample of the full dataset  
@@ -45,7 +45,7 @@ Credit_Card_Fraud_Detection/
 
 ### Full ETL Demo
 - **Purpose**: Demonstrate a full production-oriented ML pipeline  
-- **Notebook**: `CreditCardFraud_Full_ETL.ipynb`  
+- **Notebook**: `CreditCardFraud_Full_ETL_Demo.ipynb`  
 - **Key highlights**:
   - ETL pipeline and data preprocessing
   - Handling class imbalance using SMOTE
@@ -63,13 +63,13 @@ Credit_Card_Fraud_Detection/
 
 ```bash
 git clone https://github.com/Shufen-Yin/Python_Project.git
-cd Python_Project/Credit_Card_Fraud_Detection
+cd 04_Python_ML_Project/Credit_Card_Fraud_Detection
 ```
-Open notebooks in Jupyter or VSCode:
+## Open notebooks in Jupyter or VSCode:
 
 **Sample Notebook:** CreditCardFraud_Sample_Project/CreditCardFraud_Sample.ipynb
 
-**Full ETL Notebook:** CreditCardFraud_Full_ETL_Demo/CreditCardFraud_Full_ETL.ipynb
+**Full ETL Notebook:** CreditCardFraud_Full_ETL_Demo/CreditCardFraud_Full_ETL_Demo.ipynb
 
 The Full ETL notebook runs with generated random data, so you do not need the full Kaggle dataset to explore the pipeline.
 
