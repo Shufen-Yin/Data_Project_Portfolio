@@ -1,4 +1,4 @@
-# Customer Feedback DB ![Database Icon](https://img.icons8.com/ios-filled/50/000000/database.png)
+# Customer Feedback DB                 ![Database Icon](https://img.icons8.com/ios-filled/50/000000/database.png)
 
 ## Project Overview
 This project demonstrates a **Customer Feedback Analysis Database** using SQL. It highlights skills in:
@@ -58,17 +58,14 @@ Data Import Example
 EXEC ImportCustomerSurvey @FilePath = N'C:\Data\CustomerSurvey.csv';
 This procedure imports CSV data into the Staging table, then bulk inserts it into the Reviews table.
 For actual analysis, use the CSV files in the data_parsing_analysis project.
-'''
-## Sample Output
 
-**Top Products & Trend Analysis**
-![Top Products](images/top10.png)
 
-**Customer Sentiment Analysis**
-![Sentiment Analysis](images/sentiment.png)
+Sample Output
 
-> Empty table shown as placeholder. Replace with actual data once CSV is imported.
-'''
+Top Products & Trend Analysis in images/top10.png
+Customer Sentiment Analysis  in  images/sentiment.png
+
+ Empty table shown as placeholder. Replace with actual data once CSV is imported.
 
 Empty table shown as placeholder. Replace with actual data once CSV is imported.
 
