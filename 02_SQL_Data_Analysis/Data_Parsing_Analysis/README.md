@@ -23,6 +23,7 @@
 │   └── external_reviews.xml
 ├── data_parsing_analysis.py
 ├── README.md
+├── output.png
 ├── error_log.txt   # created automatically
 
 ```
