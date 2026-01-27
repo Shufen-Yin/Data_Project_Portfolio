@@ -31,22 +31,22 @@
 ## Quick Start
 
 ```bash
-git clone https://github.com/Shufen-Yin/Data_Project_Portfolio.git
+-git clone https://github.com/Shufen-Yin/Data_Project_Portfolio.git
 cd 02_SQL_Data_Analysis
-python data_parsing_analysis.py
+-python data_parsing_analysis.py
 
 **Example Analysis**
-```
-Top Customers:
+
+**Top Customers:**
 customer_id | avg_rating | reviews
 1           | 5.0        | 3
 2           | 4.0        | 3
 3           | 2.33       | 3
-```
+
 Keyword Counts: damaged: 2, late: 3, defective: 1
 Monthly Rating Trend: 2025-01: 4.2 (10), 2025-02: 3.8 (8)
 
-Tech Highlights
+**Tech Highlights**
 
 Python, CSV/JSON/XML parsing, data validation, SQLite, basic analysis
 
