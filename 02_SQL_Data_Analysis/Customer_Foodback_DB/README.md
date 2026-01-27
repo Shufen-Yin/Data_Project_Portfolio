@@ -1,6 +1,4 @@
-# SQL Data Analyst Portfolio – Customer Feedback DB
-
-![Database Icon](https://img.icons8.com/ios-filled/50/000000/database.png)  
+# Customer Feedback DB     ![Database Icon](https://img.icons8.com/ios-filled/50/000000/database.png)  
 
 ## Project Overview
 This project demonstrates a **Customer Feedback Analysis Database** using SQL. It highlights skills in:
@@ -69,15 +67,15 @@ This procedure imports CSV data into the Staging table, then bulk inserts it int
 For actual analysis, use the CSV files in the data_parsing_analysis project.
 
 
-Sample Output 
+## Sample Output
 
-Top Products & Trend Analysis
-<img width="990" height="537" alt="image" src="https://github.com/user-attachments/assets/19b6a36c-dfdb-4044-a743-4b5cc8fae869" />
+**Top Products & Trend Analysis**
+![Top Products](images/Top10.png)
 
-Customer Sentiment Analysis
-<img width="992" height="777" alt="image" src="https://github.com/user-attachments/assets/96bb739b-2dc6-413d-bb03-7f29ed7555b2" />
+**Customer Sentiment Analysis**
+![Sentiment Analysis](images/sentiment.png)
 
-Empty table shown as placeholder. Replace with actual data once CSV is imported.
+> Empty table shown as placeholder. Replace with actual data once CSV is imported.
 
 Skills Demonstrated：
 Database design & management
