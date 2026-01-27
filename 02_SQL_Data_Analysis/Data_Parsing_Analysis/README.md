@@ -34,10 +34,12 @@
 -git clone https://github.com/Shufen-Yin/Data_Project_Portfolio.git
 cd 02_SQL_Data_Analysis
 -python data_parsing_analysis.py
+```
 
 **Example Analysis**
 
 **Top Customers:**
+
 customer_id | avg_rating | reviews
 1           | 5.0        | 3
 2           | 4.0        | 3
