@@ -97,4 +97,3 @@ Please download datasets from official or public sources and place them in the c
 ---
 
 This folder provides a **comprehensive showcase of advanced visualization skills**, from business insights to social data analysis, using interactive dashboards in Power BI and Tableau.
-Datasets are not included due to size/privacy. Please download from the official sources as described in each project if needed.
