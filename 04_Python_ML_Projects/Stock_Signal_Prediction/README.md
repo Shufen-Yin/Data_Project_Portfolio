@@ -18,6 +18,7 @@ This project demonstrates how to predict **Buy/Hold/Sell signals** and forecast 
   - ROC & Precision-Recall curves
   - Signal distribution
   - Actual vs Predicted prices for regression
+ Note: Visualization is used for exploratory analysis and model interpretation.
 
 **Dataset:**
 - Daily stock prices including Open, High, Low, Close, and Volume.
@@ -45,6 +46,13 @@ This project demonstrates how to predict **Buy/Hold/Sell signals** and forecast 
 
 ## Model Evaluation
 
+## Signal Prediction (Classification)
+- Labels: {"Hold":0, "Buy":1, "Sell":2} — logical sequence for clarity.
+  
+- **Step 4 / 6 Note:**  
+  > Signal labels are derived from technical indicator rules, not future returns.  
+  > The ML models learn to approximate rule-based signals rather than directly optimizing profit.
+
 **Classification (Random Forest Example):**
 - Accuracy: 0.999
 - Precision: 0.999
@@ -54,6 +62,11 @@ This project demonstrates how to predict **Buy/Hold/Sell signals** and forecast 
   - MACD and MACD_signal are the most influential indicators.
   - RSI contributes moderately.
 
+## Future Price Prediction (Regression)
+
+- Predicts **next-day closing price** using Random Forest Regression.
+- Evaluated with MAE and RMSE metrics.
+  
 **Regression (Random Forest Regression):**
 - MAE: 0.49 — predicted prices deviate on average by 0.49 units.
 - RMSE: 0.64 — larger deviations indicate occasional sensitivity to outliers.
