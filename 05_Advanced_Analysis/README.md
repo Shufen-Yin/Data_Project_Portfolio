@@ -1,4 +1,4 @@
-# Advanced Analysis Projects — Data_Project_Portfolio
+# Advanced Analysis Projects 
 
 This folder contains **advanced Python machine learning projects** demonstrating **unsupervised learning, clustering, anomaly detection, and dimensionality reduction techniques**.  
 These projects highlight skills in **data preprocessing, feature engineering, PCA, neural networks, and visualization** applied to real-world datasets.
