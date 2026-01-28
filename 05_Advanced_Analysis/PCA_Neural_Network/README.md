@@ -86,8 +86,8 @@ To run the notebook, download the zip file and upload it to **Google Colab**.
 ```
 PCA_Neural_Network/
 │
-├── PCA_with_Neural_Networks.ipynb # Main notebook
-├── figures/ # Visualizations output
+├── PCA_with_Neural_Networks.ipynb/PDF # Main notebook
+├──Outputs/figures/ # Visualizations output
 │ ├── pca_2d_projection.png
 │ └── autoencoder_2d_projection.png
 ├── README.md # Project description
