@@ -81,7 +81,7 @@ Figures saved in `figures/` folder:
 Anomaly_Detection/
 │
 ├── Anomaly_Detection.ipynb/PDF # Main analysis notebook
-├── figures/ # Saved figures of anomaly scores
+├──Outputs/figures/ # Saved figures of anomaly scores
 │ ├── gmm_anomaly_scores.png
 │ ├── kde_anomaly_scores.png
 │
