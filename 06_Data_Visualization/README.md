@@ -25,7 +25,23 @@ The projects focus on transforming raw datasets into insightful dashboards and v
 
 ---
 
-### 2. Tableau: Fatal Police Shooting Analysis
+### 2. Tableau: Coffee Brand Review Analysis
+**Folder:** [Tableau_Coffe_Brand_Review](https://github.com/Shufen-Yin/Data_Project_Portfolio/tree/main/06_Data_Visualization/Tableau_Coffe_Brand_Review)  
+**Goal:** Analyze online reviews of coffee brands to understand consumer sentiment and trends.  
+
+**Key Features:**
+- Text and numerical data visualization
+- Sentiment analysis and rating distribution
+- Customer feedback trends over time
+- Interactive Tableau dashboards for business insights
+
+**Files:**  
+- [Coffee Brand Analysis.twbx](https://github.com/Shufen-Yin/Data_Project_Portfolio/blob/main/06_Data_Visualization/Tableau_Coffe_Brand_Review/Coffee%20Brand%20Analysis.twbx)  
+- [Coffee Brand Review Dashboard.pdf](https://github.com/Shufen-Yin/Data_Project_Portfolio/blob/main/06_Data_Visualization/Tableau_Coffe_Brand_Review/Coffee%20Brand%20Review%20Dashboard.pdf)  
+
+---
+
+### 3. Tableau: Fatal Police Shooting Analysis
 **Folder:** [Tableau_Fatal_Police_Shooting](https://github.com/Shufen-Yin/Data_Project_Portfolio/tree/main/06_Data_Visualization/Tableau_Fatal_Police_Shooting)  
 **Goal:** Explore and visualize fatal police shooting data to uncover patterns, demographics, and trends.  
 
