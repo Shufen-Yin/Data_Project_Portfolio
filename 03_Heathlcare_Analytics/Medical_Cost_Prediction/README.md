@@ -40,7 +40,7 @@ This project explores factors influencing **annual medical costs** using patient
 ```
 Healthcare_Cost_Analysis/
 │
-├── notebooks/ # Step-by-step analysis, visualizations, and EDA(Healthcare_cost.ipynb)
+├── notebooks/ # Step-by-step analysis, visualizations, and EDA(Healthcare_cost.ipynb)/PDF
 ├── data/ # CSV dataset (medical_cost.csv)
 ├── outputs/ # Key plots and figures (e.g., annual cost distribution, smoker vs cost, high-cost patients)
 └── README.md # Project overview, dataset info, key insights, and business takeaways
