@@ -1,5 +1,5 @@
 
-# Data Visualization Projects — Data_Project_Portfolio
+# Data Visualization Projects 
 
 This folder contains **interactive and visual analytics projects** showcasing data visualization skills using **Power BI and Tableau**.  
 The projects focus on transforming raw datasets into insightful dashboards and visual stories for business or social impact.
@@ -20,8 +20,6 @@ The projects focus on transforming raw datasets into insightful dashboards and v
 - Insights for traffic safety, planning, and risk reduction
 - Power BI-specific visualizations including maps, slicers, and drill-throughs
 
-[View Project →](PowerBI_NYC_Collision/README.md)
-
 ---
 
 ### 2. Tableau: Coffee Brand Review Analysis
@@ -33,8 +31,6 @@ The projects focus on transforming raw datasets into insightful dashboards and v
 - Sentiment analysis and rating distribution
 - Customer feedback trends over time
 - Interactive Tableau dashboards for business insights
-
-[View Project →](Tableau_Coffe_Brand_Review/README.md)
 
 ---
 
@@ -48,16 +44,12 @@ The projects focus on transforming raw datasets into insightful dashboards and v
 - Interactive dashboards for public awareness and research
 - Tableau visualizations highlighting critical social insights
 
-[View Project →](Tableau_Fatal_Police_Shooting/README.md)
-
 ---
 
 ## Dataset Disclaimer
 
 All datasets are **not included** due to size or privacy considerations.  
-Please download datasets from official or public sources as noted in each project README.
-
-> Notebooks or dashboards automatically link to uploaded datasets in the respective project folders.
+Please download datasets from official or public sources and place them in the corresponding project folders if needed.
 
 ---
 
@@ -105,7 +97,4 @@ Please download datasets from official or public sources as noted in each projec
 ---
 
 This folder provides a **comprehensive showcase of advanced visualization skills**, from business insights to social data analysis, using interactive dashboards in Power BI and Tableau.
-> Datasets are not included due to size/privacy. Please download from the official sources as described in each project if needed.
-
-
-This folder provides a **comprehensive showcase of advanced visualization skills**, from business insights to social data analysis, using interactive dashboards in Power BI and Tableau.
+Datasets are not included due to size/privacy. Please download from the official sources as described in each project if needed.
