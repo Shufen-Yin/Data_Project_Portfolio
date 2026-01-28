@@ -9,11 +9,11 @@ This folder contains two SQL data analysis projects, demonstrating database desi
 - **Content:** `Customer_Feedback_DB.sql`  
 - **Description:** SQL Server database for customer feedback. Creates tables, staging tables, views, and a stored procedure for CSV import.  
 - **Skills:** 
-  - SQL Server table design with primary/foreign keys  
+  - SQL Server table design with primary/foreign keys
+  - Database Design & ERD (lucidchart) 
   - Aggregation (AVG, COUNT), GROUP BY, TOP N  
   - CASE for sentiment classification  
   - Stored procedure and ETL automation
-  - Database Design & ERD (lucidchart)
 - **How to run:** Open in SQL Server Management Studio (SSMS) and execute the script.  
 - **See also:** `Customer_Feedback_DB/README.md` for details and screenshots.
 
