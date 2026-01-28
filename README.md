@@ -9,61 +9,55 @@ This portfolio demonstrates my ability to handle data projects end-to-end — fr
 
 ## Core Projects – From Basic to Advanced
 
-### 1️⃣ Sales Analysis – Monthly Sales Insights
+### 1. [Sales Analysis – Monthly Sales Insights](https://github.com/Shufen-Yin/Data_Project_Portfolio/tree/main/01_Basic_Data_Analysis/Sales_Analysis)
 Retail sales analysis using Python to explore monthly trends, seasonality, top products, category and regional performance, including MoM and YoY growth.
 
 **Skills:** Data cleaning, time-series aggregation, business insights  
-**Tools:** Python, pandas, matplotlib, seaborn  
-[Project Folder](https://github.com/Shufen-Yin/Data_Project_Portfolio/tree/main/01_Basic_Data_Analysis/Sales_Analysis)
+**Tools:** Python, pandas, matplotlib, seaborn
 
 ---
 
-### 2️⃣ SQL Data Analysis & ETL – Customer Feedback Database
+### 2. [SQL Data Analysis & ETL – Customer Feedback Database](https://github.com/Shufen-Yin/Data_Project_Portfolio/tree/main/02_SQL_Data_Analysis)
 Database design, ERD creation, and automated data parsing pipeline using SQL and Python for ETL, reporting, and analysis.
 
 **Projects include:** Customer Feedback DB, Data Parsing Analysis  
 **Skills:** Database Design & ERD, SQL querying, automation  
-**Tools:** SQL, Python, SQLite, Lucidchart  
-[Project Folder](https://github.com/Shufen-Yin/Data_Project_Portfolio/tree/main/02_SQL_Data_Analysis)
+**Tools:** SQL, Python, SQLite, Lucidchart
 
 ---
 
-### 3️⃣ Healthcare Analytics – Medical Cost Prediction
+### 3. [Healthcare Analytics – Medical Cost Prediction](https://github.com/Shufen-Yin/Data_Project_Portfolio/tree/main/03_Heathlcare_Analytics/Medical_Cost_Prediction)
 Regression-based analysis to predict patient medical costs, including feature engineering, model evaluation, and optional clustering for insights.
 
 **Skills:** Regression, feature engineering, model evaluation  
-**Tools:** Python, scikit-learn  
-[Project Folder](https://github.com/Shufen-Yin/Data_Project_Portfolio/tree/main/03_Heathlcare_Analytics/Medical_Cost_Prediction)
+**Tools:** Python, scikit-learn
 
 ---
 
-### 4️⃣ Python Machine Learning Projects
+### 4. [Python Machine Learning Projects](https://github.com/Shufen-Yin/Data_Project_Portfolio/tree/main/04_Python_ML_Projects)
 Applied machine learning projects covering classification, regression, time series, and predictive modeling.
 
 **Projects include:** Credit Card Fraud Detection, Stock Signal Prediction  
 **Skills:** ML pipelines, model evaluation, data preprocessing  
-**Tools:** Python, scikit-learn  
-[Project Folder](https://github.com/Shufen-Yin/Data_Project_Portfolio/tree/main/04_Python_ML_Projects)
+**Tools:** Python, scikit-learn
 
 ---
 
-### 5️⃣ Advanced Analysis & Modeling
+### 5. [Advanced Analysis & Modeling](https://github.com/Shufen-Yin/Data_Project_Portfolio/tree/main/05_Advanced_Analysis)
 Advanced analytical techniques including clustering, anomaly detection, dimensionality reduction, and neural networks.
 
 **Projects include:** Customer Segmentation (K-Means), Anomaly Detection, PCA + Neural Network Modeling  
 **Skills:** Unsupervised learning, advanced modeling  
-**Tools:** Python, scikit-learn  
-[Project Folder](https://github.com/Shufen-Yin/Data_Project_Portfolio/tree/main/05_Advanced_Analysis)
+**Tools:** Python, scikit-learn
 
 ---
 
-### 6️⃣ BI & Data Visualization
+### 6. [BI & Data Visualization](https://github.com/Shufen-Yin/Data_Project_Portfolio/tree/main/06_Data_Visualization)
 Business intelligence and visualization projects using industry-standard tools.
 
 **Projects include:** Power BI: NYC Collision Analysis, Tableau: Coffee Brand Reviews, Fatal Police Shooting  
 **Skills:** Dashboard design, storytelling with data  
-**Tools:** Power BI, Tableau  
-[Project Folder](https://github.com/Shufen-Yin/Data_Project_Portfolio/tree/main/06_Data_Visualization)
+**Tools:** Power BI, Tableau
 
 ---
 
