@@ -1,38 +1,51 @@
 # SQL Data Analysis Projects
 
-This folder contains two SQL data analysis projects, demonstrating database design, ETL, and analysis skills.
+This folder contains SQL data analysis projects demonstrating database design, ETL, and analysis skills.
 
 ---
 
 ## 1️⃣ Customer_Feedback_DB
 
-- **Content:** [`Customer_Feedback_DB.sql`](Customer_Feedback_DB/Customer_Feedback_DB.sql)  
-- **Description:** SQL Server database for customer feedback. Creates tables, staging tables, views, and a stored procedure for CSV import.  
-- **Skills:** 
-  - SQL Server table design with primary/foreign keys  
+- **Content:**  
+  [`customer_feedback_db.sql`](Customer_Feedback_DB/customer_feedback_db.sql)
+
+- **Description:**  
+  SQL Server database for customer feedback analysis. Includes table design, staging tables, views, and a stored procedure for CSV import.
+
+- **Skills:**  
+  - SQL Server table design (Primary / Foreign Keys)  
   - Database Design & ERD (Lucidchart)  
   - Aggregation (`AVG`, `COUNT`), `GROUP BY`, `TOP N`  
   - `CASE` for sentiment classification  
-  - Stored procedure and ETL automation  
-- **How to run:** Open in **SQL Server Management Studio (SSMS)** and execute the script.  
+  - Stored procedure & ETL automation  
+
+- **How to run:**  
+  Open in **SQL Server Management Studio (SSMS)** and execute the script.
+
 - **See also:**  
-  - 📄 [`Customer_Feedback_DB/README.md`](Customer_Feedback_DB/README.md) — detailed explanation & screenshots  
-  - 🧩 ERD diagram in [`Customer_Feedback_DB/docs/`](Customer_Feedback_DB/docs/)
+  - 📄 [`Customer_Feedback_DB/README.md`](Customer_Feedback_DB/README.md)  
+  - 🧩 ERD & diagrams: [`Customer_Feedback_DB/docs/`](Customer_Feedback_DB/docs/)
 
 ---
 
-## 2️⃣ data_parsing_analysis
+## 2️⃣ Data_Parsing_Analysis
 
-- **Content:** [`data_parsing_analysis.py`](data_parsing_analysis/data_parsing_analysis.py)  
-- **Description:** Python script to parse CSV / JSON / XML customer feedback, load into SQLite staging tables, and perform analysis (top customers, keywords, monthly trends).  
-- **Skills:** 
+- **Content:**  
+  [`data_parsing_analysis.py`](Data_Parsing_Analysis/data_parsing_analysis.py)
+
+- **Description:**  
+  Python script that parses CSV / JSON / XML customer feedback, loads data into SQLite staging tables, and performs analysis (top customers, keywords, trends).
+
+- **Skills:**  
   - Python data parsing & cleaning  
   - SQLite database operations  
-  - SQL queries with `UNION ALL`, aggregation, and sorting  
+  - SQL queries (`UNION ALL`, aggregation, sorting)  
   - Basic data analysis and insights  
+
 - **How to run:**  
   ```bash
   python data_parsing_analysis.py
+
   
 **See also:**
 -  📄 data_parsing_analysis/README.md
