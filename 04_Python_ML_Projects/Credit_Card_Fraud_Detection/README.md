@@ -55,6 +55,14 @@ Credit_Card_Fraud_Detection/
   - Random data generated for demo purposes (`np.random.seed`)  
   - Kaggle full dataset download code included but commented for reproducibility
 
+**Evaluation Focus**
+
+- **ROC-AUC** is prioritized over accuracy due to class imbalance
+- **Confusion matrix** helps assess false negatives, which are costly in fraud detection.
+
+> **Note:** The output shows that the sample data is highly imbalanced, resulting in a recall of 0.  
+> In practice, when using the full dataset, techniques such as **SMOTE** or **class weighting** are needed to improve recall.
+  
 ---
 
 ## How to Run
@@ -65,11 +73,11 @@ Credit_Card_Fraud_Detection/
 git clone https://github.com/Shufen-Yin/Python_Project.git
 cd 04_Python_ML_Project/Credit_Card_Fraud_Detection
 ```
-## Open notebooks in Jupyter or VSCode:
+## Open notebooks in Jupyter or VSCode
 
-**Sample Notebook:** CreditCardFraud_Sample_Project/CreditCardFraud_Sample.ipynb
+- **Sample Notebook:** [Sample Notebook](https://github.com/Shufen-Yin/Data_Project_Portfolio/tree/main/04_Python_ML_Projects/Credit_Card_Fraud_Detection/CreditCardFraud_Sample_Project)
 
-**Full ETL Notebook:** CreditCardFraud_Full_ETL_Demo/CreditCardFraud_Full_ETL_Demo.ipynb
+- **Full ETL Notebook:** [Full ETL Notebook](https://github.com/Shufen-Yin/Data_Project_Portfolio/tree/main/04_Python_ML_Projects/Credit_Card_Fraud_Detection/CreditCardFraud_Full_ETL_Demo)
 
 The Full ETL notebook runs with generated random data, so you do not need the full Kaggle dataset to explore the pipeline.
 
