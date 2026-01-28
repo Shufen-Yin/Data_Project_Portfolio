@@ -20,28 +20,12 @@ The projects focus on transforming raw datasets into insightful dashboards and v
 - Power BI-specific visualizations including maps, slicers, and drill-throughs
 
 **Files:**  
-- [NYC_Collision_Analysis.pbix](https://github.com/Shufen-Yin/Data_Project_Portfolio/blob/main/06_Data_Visualization/PowerBI_NYC_Collision/NYC_Collision_Analysis.pbix)  
-- [Dashboard.pdf](https://github.com/Shufen-Yin/Data_Project_Portfolio/blob/main/06_Data_Visualization/PowerBI_NYC_Collision/Dashboard.pdf)  
+- [NYC_Collisions _Analyst.pbix](https://github.com/Shufen-Yin/Data_Project_Portfolio/blob/main/06_Data_Visualization/PowerBI_NYC_Collision/NYC_Collisions%20_Analyst.pbix)  
+- [NYC_Collisions Analysis_Dashboard.pdf](https://github.com/Shufen-Yin/Data_Project_Portfolio/blob/main/06_Data_Visualization/PowerBI_NYC_Collision/NYC_Collisions%20Analysis_Dashboard.pdf)  
 
 ---
 
-### 2. Tableau: Coffee Brand Review Analysis
-**Folder:** [Tableau_Coffe_Brand_Review](https://github.com/Shufen-Yin/Data_Project_Portfolio/tree/main/06_Data_Visualization/Tableau_Coffe_Brand_Review)  
-**Goal:** Analyze online reviews of coffee brands to understand consumer sentiment and trends.  
-
-**Key Features:**
-- Text and numerical data visualization
-- Sentiment analysis and rating distribution
-- Customer feedback trends over time
-- Interactive Tableau dashboards for business insights
-
-**Files:**  
-- [Coffee_Review_Analysis.twbx](https://github.com/Shufen-Yin/Data_Project_Portfolio/blob/main/06_Data_Visualization/Tableau_Coffe_Brand_Review/Coffee_Review_Analysis.twbx)  
-- [Dashboard.pdf](https://github.com/Shufen-Yin/Data_Project_Portfolio/blob/main/06_Data_Visualization/Tableau_Coffe_Brand_Review/Dashbaord.pdf)  
-
----
-
-### 3. Tableau: Fatal Police Shooting Analysis
+### 2. Tableau: Fatal Police Shooting Analysis
 **Folder:** [Tableau_Fatal_Police_Shooting](https://github.com/Shufen-Yin/Data_Project_Portfolio/tree/main/06_Data_Visualization/Tableau_Fatal_Police_Shooting)  
 **Goal:** Explore and visualize fatal police shooting data to uncover patterns, demographics, and trends.  
 
@@ -52,8 +36,8 @@ The projects focus on transforming raw datasets into insightful dashboards and v
 - Tableau visualizations highlighting critical social insights
 
 **Files:**  
-- [Fatal_Police_Shooting_Analysis.twbx](https://github.com/Shufen-Yin/Data_Project_Portfolio/blob/main/06_Data_Visualization/Tableau_Fatal_Police_Shooting/Fatal_Police_Shooting_Analysis.twbx)  
-- [Dashboard.pdf](https://github.com/Shufen-Yin/Data_Project_Portfolio/blob/main/06_Data_Visualization/Tableau_Fatal_Police_Shooting/Dashboard.pdf)  
+- [Fatal Police Shooting (USA Records from 2015-2021).twbx](https://github.com/Shufen-Yin/Data_Project_Portfolio/blob/main/06_Data_Visualization/Tableau_Fatal_Police_Shooting/Fatal%20Police%20Shooting%20(USA%20Records%20from%202015-2021).twbx)  
+- [Fatal_Police_Shooting Dashboard.pdf](https://github.com/Shufen-Yin/Data_Project_Portfolio/blob/main/06_Data_Visualization/Tableau_Fatal_Police_Shooting/Fatal_Police_Shooting%20Dashboard.pdf)  
 
 ---
 
@@ -82,7 +66,6 @@ Please download datasets from official or public sources and place them in the c
 4. Explore dashboards, filters, and interactive elements.
 
 ---
-
 ## Repository Structure
 ```
 06_Data_Visualization/
