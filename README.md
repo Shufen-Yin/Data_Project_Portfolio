@@ -1,6 +1,6 @@
 # Shufen Yin – Data Project Portfolio
 
-**Skills:** Data Analysis | Data Engineering | Machine Learning | Visualization  
+**Skills:** Database Design & ERD| Data Analysis | Data Engineering | Machine Learning | Visualization  
 **Tools:** Python | SQL | Jupyter | Google Colab | Power BI | Tableau | lucichart
 
 This portfolio demonstrates my ability to handle data projects end-to-end — from data cleaning and feature engineering to analysis, modeling, evaluation, and visualization.  
@@ -24,9 +24,8 @@ Customer feedback database,ERD and automated data parsing pipeline using SQL ,lu
 - **Projects include:**  
   - Customer Feedback DB 
   - Data Parsing Analysis
-- **Skills:** SQL querying, ERD design, ETL design, automation
-- **Tools:** SQL, Python, SQLite,lucidechart
-  
+- **Skills:** Database Design & ERD,SQL querying, ETL design, automation
+- **Tools:** SQL, Python, SQLite,lucidechart  
 🔗 **Project Folder:**  
 https://github.com/Shufen-Yin/Data_Project_Portfolio/tree/main/02_SQL_Data_Analysis
 
@@ -78,7 +77,7 @@ https://github.com/Shufen-Yin/Data_Project_Portfolio/tree/main/06_Data_Visualiza
 ## Skills & Tools Summary
 
 - **Programming:** Python (pandas, numpy, matplotlib, seaborn)
-- **SQL & ETL:** Data cleaning, feature engineering, pipelines, automation
+- **SQL & ETL:** Database Design & ERD,Data cleaning, feature engineering, pipelines, automation
 - **Machine Learning:** Regression, Classification, Clustering, Time Series, PCA, Neural Networks, Anomaly Detection
 - **Visualization:** Matplotlib, Seaborn, Power BI, Tableau
 - **Evaluation & Reporting:** Accuracy, Precision, Recall, F1, ROC-AUC, RMSE, R²; PDF and Markdown reports
