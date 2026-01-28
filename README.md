@@ -84,6 +84,6 @@ https://github.com/Shufen-Yin/Data_Project_Portfolio/tree/main/06_Data_Visualiza
 ## Contact
 
 - **Email:** mickeyyinabc@gmail.com  
-- **LinkedIn:** https://linkedin.com/in/yourprofile  
+- **LinkedIn:** Updating
 - **GitHub:** [https://github.com/Shufen-Yin](https://github.com/Shufen-Yin/Data_Project_Portfolio)
 
