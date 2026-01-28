@@ -46,7 +46,7 @@ This repository showcases a collection of **Python machine learning projects** d
 ---
 
 ## Repository Structure
----
+```
 Python_ML_Project/
 ├── Credit_Card_Fraud_Detection/
 │ ├── CreditCardFraud_Sample_Project/
@@ -58,5 +58,24 @@ Python_ML_Project/
 │ ├── outputs/ (generated PNG figures)
 │ └── README.md
 └── README.md <-- This file
+```
+
 ---
+
+## Key Skills Demonstrated
+- Data preprocessing and feature engineering
+- Handling imbalanced datasets (SMOTE, class weighting)
+- Classification & Regression modeling
+- Model evaluation and interpretation
+- Visualization for model insights
+- End-to-end ML pipeline design
+- Portfolio-ready project structuring
+
+---
+
+## Notes
+- All projects are **for demonstration purposes only**.  
+- Predictions or signals **should not be used for live trading or financial decisions**.  
+- Sample datasets are provided when full datasets are large or proprietary.  
+
 
