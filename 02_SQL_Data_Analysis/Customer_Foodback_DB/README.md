@@ -3,7 +3,7 @@
 ## Project Overview
 This project demonstrates a **Customer Feedback Analysis Database** using SQL. It highlights skills in:
 
-- ✅ Database design (Customers / Products / Reviews)  
+- ✅ Database design & ERD (Customers / Products / Reviews)  
 - ✅ Data import & cleaning (CSV / JSON / XML using Staging tables)  
 - ✅ SQL queries for Top products, Customer sentiment, and Trend analysis  
 - ✅ Views & Stored Procedures for efficient analysis  
