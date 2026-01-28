@@ -28,9 +28,9 @@ This project demonstrates:
 Credit_Card_Fraud_Detection/
 ├── CreditCardFraud_Sample_Project/
 │ ├── creditcard_sample.csv # Small sample dataset (~5,000 rows)
-│ └── CreditCardFraud_Sample.ipynb
+│ └── CreditCardFraud_Sample.ipynb/PDF
 ├── CreditCardFraud_Full_ETL_Demo/
-│ └── CreditCardFraud_Full_ETL_Demo.ipynb # Full ETL & pipeline workflow with random data
+│ └── CreditCardFraud_Full_ETL_Demo.ipynb /PDF# Full ETL & pipeline workflow with random data
 ```
 
 ### Sample Project
