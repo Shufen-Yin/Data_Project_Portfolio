@@ -38,8 +38,9 @@ This repository showcases a collection of **Python machine learning projects** d
 - Random Forest Regression for next-day price prediction
 - Visualization used for exploratory analysis and model interpretation
 
-> Note: Signal labels are derived from technical indicator rules, not future returns.  
-> Regression task predicts next-day close price as a baseline; not intended for long-horizon forecasting.  
+**Notes:**
+-  Signal labels are derived from technical indicator rules, not future returns.  
+-  Regression task predicts next-day close price as a baseline; not intended for long-horizon forecasting.  
 
 [View Project →](Stock_Signal_Prediction/README.md)
 
