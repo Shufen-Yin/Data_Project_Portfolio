@@ -84,7 +84,7 @@ This project demonstrates how unsupervised learning can transform raw transactio
 ```
 Customer_Segmentation/
 │
-├── notebook/ Customer_Segmentation.ipynb # Main analysis notebook
+├── notebook/ Customer_Segmentation.ipynb/PDF # Main analysis notebook
 │
 ├── figures/ # Visualization output
 │ ├── silhouette_score.png
