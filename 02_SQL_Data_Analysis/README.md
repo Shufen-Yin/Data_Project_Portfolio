@@ -12,7 +12,8 @@ This folder contains two SQL data analysis projects, demonstrating database desi
   - SQL Server table design with primary/foreign keys  
   - Aggregation (AVG, COUNT), GROUP BY, TOP N  
   - CASE for sentiment classification  
-  - Stored procedure and ETL automation  
+  - Stored procedure and ETL automation
+  - Database Design & ERD (lucidchart)
 - **How to run:** Open in SQL Server Management Studio (SSMS) and execute the script.  
 - **See also:** `Customer_Feedback_DB/README.md` for details and screenshots.
 
