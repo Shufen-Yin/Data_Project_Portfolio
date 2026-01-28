@@ -10,6 +10,12 @@ This project demonstrates a **Customer Feedback Analysis Database** using SQL. I
 
 > Note: Actual data analysis and visualization are performed in the separate **data_parsing_analysis** project.
 
+### Database Design & ERD
+The relational database schema was designed and documented using Lucidchart.  
+The ERD illustrates entity relationships, primary and foreign keys, and business rules supporting product, component, and supplier analysis.
+
+![ERD](docs/erd_database_design.png)
+
 ---
 
 ## Database Structure
