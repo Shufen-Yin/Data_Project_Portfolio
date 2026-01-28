@@ -26,6 +26,7 @@ Customer feedback database,ERD and automated data parsing pipeline using SQL ,lu
   - Data Parsing Analysis
 - **Skills:** SQL querying, ERD design, ETL design, automation
 - **Tools:** SQL, Python, SQLite,lucidechart
+  
 🔗 **Project Folder:**  
 https://github.com/Shufen-Yin/Data_Project_Portfolio/tree/main/02_SQL_Data_Analysis
 
