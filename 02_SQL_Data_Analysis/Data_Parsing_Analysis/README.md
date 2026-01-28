@@ -1,5 +1,6 @@
 # Data Parsing & Analysis
-> Parse CSV/JSON/XML customer feedback, clean, load into SQLite, and perform basic analysis.
+
+Parse CSV/JSON/XML customer feedback, clean, load into SQLite, and perform basic analysis.
 
 ---
 
@@ -11,7 +12,7 @@
   - Key complaint keywords  
   - Monthly rating trends  
 
-> **Note:** `error_log.txt` is created every time the script runs, even if there are no errors.
+>**Note:** `error_log.txt` is created every time the script runs, even if there are no errors.
 
 ---
 
@@ -31,11 +32,10 @@
 
 ## Quick Start
 
-```bash
 -  git clone https://github.com/Shufen-Yin/Data_Project_Portfolio.git
 -  cd 02_SQL_Data_Analysis
 -  python data_parsing_analysis.py
-```
+
 
 **Example Analysis**
 
@@ -48,11 +48,10 @@ customer_id | avg_rating | reviews
 ```
 
 **Keyword Frequency**
-```
+
 - damaged: 0  
 - late: 2  
 - defective: 0  
-```
 
 **Monthly Rating Trend**
 
