@@ -24,13 +24,14 @@ This project demonstrates:
 ---
 
 ## Folder Structure
-
+```
 Credit_Card_Fraud_Detection/
 ├── CreditCardFraud_Sample_Project/
 │ ├── creditcard_sample.csv # Small sample dataset (~5,000 rows)
 │ └── CreditCardFraud_Sample.ipynb
 ├── CreditCardFraud_Full_ETL_Demo/
 │ └── CreditCardFraud_Full_ETL_Demo.ipynb # Full ETL & pipeline workflow with random data
+```
 
 ### Sample Project
 - **Purpose**: Quick demo using a real small sample of the full dataset  
@@ -76,8 +77,10 @@ cd 04_Python_ML_Project/Credit_Card_Fraud_Detection
 ## Open notebooks in Jupyter or VSCode
 
 - **Sample Notebook:** [Sample Notebook](https://github.com/Shufen-Yin/Data_Project_Portfolio/tree/main/04_Python_ML_Projects/Credit_Card_Fraud_Detection/CreditCardFraud_Sample_Project)
+or CreditCardFraud_Sample_Project/CreditCardFraud_Sample.ipynb 
 
 - **Full ETL Notebook:** [Full ETL Notebook](https://github.com/Shufen-Yin/Data_Project_Portfolio/tree/main/04_Python_ML_Projects/Credit_Card_Fraud_Detection/CreditCardFraud_Full_ETL_Demo)
+or CreditCardFraud_Full_ETL_Demo/CreditCardFraud_Full_ETL_Demo.ipynb
 
 The Full ETL notebook runs with generated random data, so you do not need the full Kaggle dataset to explore the pipeline.
 
