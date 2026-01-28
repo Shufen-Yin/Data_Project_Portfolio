@@ -12,7 +12,7 @@ Parse CSV/JSON/XML customer feedback, clean, load into SQLite, and perform basic
   - Key complaint keywords  
   - Monthly rating trends  
 
->**Note:** `error_log.txt` is created every time the script runs, even if there are no errors.
+**Note:** `error_log.txt` is created every time the script runs, even if there are no errors.
 
 ---
 
