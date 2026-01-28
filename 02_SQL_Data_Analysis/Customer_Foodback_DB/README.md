@@ -17,7 +17,17 @@ The ERD illustrates entity relationships, primary and foreign keys, and business
 ![ERD](docs/erd_database_design.png)
 
 ---
-
+## Folder Structure
+```
+02_SQL_Data_Analysis/
+│   ├── docs/
+│   │   └── erd_database_design.png
+│   ├── data/
+│   │   └── ecommerce_feedback.csv
+│   ├── data_parsing_analysis.py
+    ├── output/images
+│   └── README.md
+```
 ## Database Structure
 
 **Main Tables (Production Tables)**
@@ -82,5 +92,7 @@ Empty table shown as placeholder. Replace with actual data once CSV is imported.
 -  Data cleaning & ETL using Staging tables
 
 -  Customer feedback trend & sentiment analysis
+  
+-  ERD disigne used lucidchart
 
 Tip: For full data analysis and visualizations, refer to the data_parsing_analysis project using the same CSV datasets.
