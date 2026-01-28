@@ -63,5 +63,5 @@ Business intelligence and visualization projects using industry-standard tools.
 
 ## Contact
 - **Email:** mickeyyinabc@gmail.com  
-- **GitHub:** [Shufen-Yin](https://github.com/Shufen-Yin)  
+- **GitHub:** [Shufen-Yin]([https://github.com/Shufen-Yin](https://github.com/Shufen-Yin/Data_Project_Portfolio))  
 - **LinkedIn:** Updating
