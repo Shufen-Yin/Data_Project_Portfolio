@@ -81,3 +81,55 @@ python data_parsing_analysis.py
 -  Clear documentation and reproducible results
 
 -  A foundation that can be extended to API-based ingestion or basic NLP text analysis
+
+## 3. API & NLP Extension (Optional Enhancement)
+
+**Lightweight NLP and API Simulation Extension for Text Analytics**
+
+- **Core File:**  
+  [`api_nlp_extension.py`](API_NLP_Extension/api_nlp_extension.py)
+
+---
+
+### Project Overview
+
+This optional extension demonstrates how natural language processing (NLP) and API-style processing can be layered on top of an existing SQL and ETL pipeline.  
+Using customer feedback text stored in SQLite, the script performs sentiment scoring, keyword extraction, and simulates an API-style response workflow.
+
+This module is designed as a **conceptual and technical demonstration**, focusing on code structure, extensibility, and analytical logic rather than production deployment.
+
+---
+
+### Key Features
+
+- Sentiment analysis on customer comments using NLP techniques  
+- Keyword frequency extraction for qualitative insight discovery  
+- Simulated API response pattern for downstream system integration  
+- Reuse of data generated from the existing ETL pipeline  
+
+---
+
+### Key Skills & Techniques
+
+- Python-based NLP processing (sentiment polarity analysis)  
+- Text analytics and feature extraction  
+- SQLite integration for analytical workflows  
+- API-style data processing design (simulation)  
+- Modular and extensible analytics code structure  
+
+---
+
+### Notes on Execution
+
+- This module does **not** require real API tokens or external services  
+- Designed for portfolio demonstration and code review purposes  
+- Focuses on **text-based analysis** rather than image or multimedia data  
+
+---
+
+### What This Extension Demonstrates
+
+- Ability to extend SQL analytics into NLP-driven insights  
+- Understanding of how APIs and analytics pipelines interact conceptually  
+- Clean separation between core ETL logic and advanced analytical layers  
+- Practical, review-friendly code suitable for data analyst and junior data engineering roles  
