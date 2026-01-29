@@ -18,10 +18,14 @@ Retail sales analysis using Python to explore monthly trends, seasonality, top p
 ---
 
 ### 2. [SQL Data Analysis & ETL – Customer Feedback Database](https://github.com/Shufen-Yin/Data_Project_Portfolio/tree/main/02_SQL_Data_Analysis)
-Database design, ERD creation, and automated data parsing pipeline using SQL and Python for ETL, reporting, and analysis.
+End-to-end database design and automated ETL pipeline combining SQL and Python, with API & NLP style optional analytical extensions.
 
-**Projects include:** Customer Feedback DB, Data Parsing Analysis  
-**Skills:** Database Design & ERD, SQL querying, automation  
+**Projects include:**  
+- Customer Feedback Database (SQL & ERD Design)  
+- Data Parsing & ETL Analysis (Python + SQLite)  
+- Optional API & NLP Extension (Text Analytics Enhancement)
+
+**Skills:** Database design & ERD, SQL querying, ETL automation, analytical pipeline design  
 **Tools:** SQL, Python, SQLite, Lucidchart
 
 ---
