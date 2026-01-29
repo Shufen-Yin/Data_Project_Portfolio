@@ -31,33 +31,51 @@ Relational Database Design & SQL Analysis
 
 ---
 
-## 2. Data_Parsing_Analysis  
-Multi-Format Data Parsing and SQL Analysis with Python
+## 2. Data Parsing & ETL Analysis (Python + SQL)
 
-- **Core File:**  
-  [data_parsing_analysis.py](Data_Parsing_Analysis/data_parsing_analysis.py)
+**Multi-Format Data Parsing and SQL-Based Analysis Pipeline**
 
-- **Project Overview:**  
-  Built a Python-based ETL workflow to parse customer feedback data from CSV, JSON, and XML formats, load it into SQLite staging tables, and perform analytical SQL queries to extract insights.
+### Core Script
+- `data_parsing_analysis.py`
 
-- **Key Skills & Techniques:**  
-  - Python data parsing and cleaning  
-  - SQLite database operations  
-  - SQL analysis using UNION ALL, aggregation, and sorting  
-  - Insight generation (top customers, keyword frequency, trends)
+---
 
-- **How to Run:**  
-  ```bash
-  python data_parsing_analysis.py
+### Project Overview
+Designed and implemented a Python-based ETL pipeline to ingest customer feedback data from multiple source formats (CSV, JSON, XML), normalize and load the data into SQLite staging tables, and perform analytical SQL queries to generate business insights.  
+The pipeline is designed to be easily extended to additional data sources or production databases.
 
-Project Assets:
-**Project Assets:**
-- [Project README](Data_Parsing_Analysis/README.md)
-- [Sample output](Data_Parsing_Analysis/output.png)
+---
 
- **What This Section Demonstrates**
+### Key Features
+- Parsed and standardized heterogeneous data formats into a unified schema  
+- Implemented staging tables to support structured analysis  
+- Combined Python processing with SQL analytics for flexible querying  
+- Automated end-to-end execution via a single Python script  
 
--  End-to-end data workflows: raw data to staging to analysis to insights
--  Practical SQL skills used in real-world analyst roles
--  Integration of Python and SQL for flexible data pipelines
--  Clear documentation and reproducible analysis
+---
+
+### Key Skills & Techniques
+- Data parsing and transformation (CSV, JSON, XML)  
+- ETL pipeline design and automation  
+- SQLite database operations and schema management  
+- SQL analytics using aggregation, `UNION ALL`, and ordering  
+- Insight extraction (top customers, keyword frequency, trend analysis)  
+
+---
+
+### How to Run
+```bash
+python data_parsing_analysis.py
+---
+What This Project Demonstrates
+
+End-to-end data workflows: raw data → staging → analysis → insights
+
+Practical ETL and SQL skills applicable to analytics and data engineering roles
+
+Integration of Python and SQL for scalable data pipelines
+
+Clear documentation and reproducible results
+
+A foundation that can be extended to API-based ingestion or basic NLP text analysis
+---
