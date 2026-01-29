@@ -35,9 +35,8 @@ Relational Database Design & SQL Analysis
 
 **Multi-Format Data Parsing and SQL-Based Analysis Pipeline**
 
-### Core Script
-- `data_parsing_analysis.py`
-
+- **Core File:**
+   [ data_parsing_analysis.py](Data_Parsing_Analysis/data_parsing_analysis.py)
 ---
 
 ### Project Overview
@@ -66,16 +65,19 @@ The pipeline is designed to be easily extended to additional data sources or pro
 ### How to Run
 ```bash
 python data_parsing_analysis.py
----
-What This Project Demonstrates
+```
+- **Project Assets:**  
+  - [Project README](Data_Parsing_Analysis/README.md)  
+  - [Outputs](Data_Parsing_Analysis/Outputs/)
 
-End-to-end data workflows: raw data → staging → analysis → insights
+**What This Project Demonstrates**
 
-Practical ETL and SQL skills applicable to analytics and data engineering roles
+-  End-to-end data workflows: raw data → staging → analysis → insights
 
-Integration of Python and SQL for scalable data pipelines
+-  Practical ETL and SQL skills applicable to analytics and data engineering roles
 
-Clear documentation and reproducible results
+-  Integration of Python and SQL for scalable data pipelines
 
-A foundation that can be extended to API-based ingestion or basic NLP text analysis
----
+-  Clear documentation and reproducible results
+
+-  A foundation that can be extended to API-based ingestion or basic NLP text analysis
