@@ -3,84 +3,41 @@
 **Data Analyst | Aspiring Data Scientist | AI & Machine Learning**
 
 🚀 Transitioning from Data Analyst to AI-driven Data Scientist with strong forecasting and NLP capabilities.
+---
+
+### ⭐ Featured Project
+
+#### 🔥[End-to-End Electricity Demand Forecasting System](https://github.com/Shufen-Yin/Data_Project_Portfolio/tree/main/07_End_to_End_Electricity_Forecasting)
+* **Performance**: Achieved **2.32% MAPE** (80% improvement over baselines).
+* **Tech Stack**: LSTM, GRU, SARIMAX, Dual-scaler Feature Engineering, TensorFlow.
+* **Key Insight**: Resolved "flat-line" prediction via seasonal encoding and rolling windows.
 
 ---
 
-## ⭐ Featured Project
-
-### 🔥[End-to-End Electricity Demand Forecasting System](./07_End_to_End_Electricity_Forecasting)
-
-![Electricity Forecast Results](./07_End_to_End_Electricity_Forecasting/featured_project.png)
-
-> **High-precision Time Series Forecasting: 2.32% MAPE**
-> Developed an optimized **LSTM** pipeline that improved accuracy by **80%** over traditional baselines.
-
-* **Advanced Feature Engineering**: Resolved "flat-line" prediction issues through **dual-scaler alignment** and **seasonal encoding** (lags, rolling windows).
-* **Multi-Model Benchmarking**: Compared **SARIMAX, GRU, and LSTM** using **TensorFlow/Keras** to track non-linear grid behaviors.
-* **Production-Ready Thinking**: Integrated **model persistence (.keras)** and **Azure ML** concepts for automated retraining and performance monitoring.
-
- **Deep Learning | Feature Engineering | MLOps Thinking**
+### 🧠 AI & Advanced Analytics (Selected)
+*  **[Industrial Anomaly Detection](./05_Advanced_Analysis/Anomaly_Detection)** – Unsupervised **GMM/KDE** for sensor drift.
+*  **[Human Activity Recognition](./05_Advanced_Analysis/PCA_Neural_Network)** – Dimensionality reduction using **PCA & Autoencoders**.
+*  **[API & NLP Extension](./02_SQL_Data_Analysis/API_NLP_Extension)** – Sentiment Analysis integration for SQL feedback.
+*  **[Credit Card Fraud Detection](./04_Python_ML_Projects/Credit_Card_Fraud_Detection)** – Imbalanced data & classification.
+*  **[Stock Signal Prediction](./04_Python_ML_Projects/Stock_Signal_Prediction)** – Time series regression modeling.
 
 ---
 
-## 🤖 AI & Deep Learning
-
-*  **Time Series Forecasting** – [LSTM & GRU Models for Energy](./07_End_to_End_Electricity_Forecasting) (2.32% MAPE)
-*  **Neural Networks** – [Autoencoders for Dimensionality Reduction](./05_Advanced_Analysis/PCA_Neural_Network)
-*  **Natural Language Processing (NLP)** – [Sentiment Analysis & API Extension](./02_SQL_Data_Analysis/API_NLP_Extension)
-*  **Anomaly Detection** – [Density-based Outlier Detection (GMM/KDE)](./05_Advanced_Analysis/Anomaly_Detection) for Industrial IoT monitoring.
----
-### 📊 Machine Learning Projects
-
-*  **[Credit Card Fraud Detection](./04_Python_ML_Projects/Credit_Card_Fraud_Detection)** – classification, imbalanced data handling, and model evaluation
-*  **[Medical Cost Prediction](./03_Heathlcare_Analytics/Medical_Cost_Prediction)** – regression modeling
-*  **[Customer Segmentation](./05_Advanced_Analysis/Customer_Segmentation)** – unsupervised learning using K-Means clustering
-*  **[Stock Signal Prediction](./04_Python_ML_Projects/Stock_Signal_Prediction)** – time series + regression
-*  **[Human Activity Recognition: PCA & Autoencoders](./05_Advanced_Analysis/PCA_Neural_Network)** – Dimensionality reduction using Linear PCA and Non-linear Neural Networks on sensor data.
-*  **[Industrial Sensor Anomaly Detection](./05_Advanced_Analysis/Anomaly_Detection)** – Unsupervised outlier detection using GMM and KDE density estimation on UCI Gas Sensor Array drift data.
-
-### 🧱 Data Engineering & Analytics
-
-*  **[Customer_Feedback_DB](./02_SQL_Data_Analysis/Customer_Feedback_DB)** – SQL querying & reporting
-*  **[Data Parsing & ETL Pipeline](./02_SQL_Data_Analysis/Data_Parsing_Analysis)** – automation & data processing
-*  **[Sales Analysis](./01_Basic_Data_Analysis/Sales_Analysis)** – historical trend analysis & visualization
-*  **[BI Dashboards](./06_Data_Visualization)** – Insights delivered via Power BI and Tableau
-*  **[API & NLP Extension](./02_SQL_Data_Analysis/API_NLP_Extension)** – Transforming SQL feedback into text-based insights using Sentiment Analysis.
+### 🧱 Data Engineering & BI
+*  **[Automated ETL Pipeline](./02_SQL_Data_Analysis/Data_Parsing_Analysis)** – Python-based parsing and data processing.
+*  **[Sales & Healthcare Analysis](./03_Healthcare_Analytics/Medical_Cost_Prediction)** – Statistical modeling and trend visualization.
+*  **[BI Dashboards](./06_Data_Visualization)** – Insights delivered via **Power BI & Tableau**.
+*  **[Customer Feedback DB](./02_SQL_Data_Analysis/Customer_Feedback_DB)** – Structured SQL querying and reporting.
 
 ---
 
-## 🛠️ Skills & Tools
-
-###  AI & Machine Learning
-- Time Series: ARIMA, SARIMAX, LSTM, GRU
-- NLP: text processing, classification, sentiment analysis
-- Deep Learning: TensorFlow, Keras
-
-###  Data & Engineering
-- Python (3.10), Pandas, NumPy, Scikit-learn
-- SQL, ETL pipelines, data cleaning
-
-###  Visualization
-- Matplotlib, Seaborn
-- Power BI, Tableau
-
-###  Concepts
-- Feature engineering (Dual-scaler strategy)
-- Model evaluation (RMSE, MAE, MAPE, ROC-AUC)
-- Deployment workflow & model monitoring (Azure ML concepts)
-
+### 🛠️ Skills Matrix
+* **ML/AI**: LSTM, GRU, SARIMAX, GMM, KDE, PCA, [Scikit-learn](https://scikit-learn.org/stable/), [Keras](https://keras.io/), [TensorFlow](https://www.tensorflow.org/).
+* **Tools**: [Python 3.10](https://www.python.org/), [SQL](https://www.w3schools.com/sql/), ETL, Feature Engineering.
+* **Viz**: [Power BI](https://powerbi.microsoft.com/), [Tableau](https://www.tableau.com/), [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/).
 ---
 
-## 📂 Portfolio Structure
+### 📬 Contact
+* **Email**: mickeyyinabc@gmail.com
+* **GitHub**: [Shufen-Yin/Data_Project_Portfolio](https://github.com/Shufen-Yin/Data_Project_Portfolio)
 
-- **01–03**: Foundations (Data Analysis, SQL, Healthcare)
-- **04–05**: Machine Learning & Advanced Modeling
-- **06**: BI & Visualization
-- **07+**: AI, Deep Learning & Forecasting
-
----
-
-## 📬 Contact
-
--  Email: mickeyyinabc@gmail.com
--  GitHub: https://github.com/Shufen-Yin/Data_Project_Portfolio
