@@ -1,4 +1,4 @@
-# 🚀 Shufen Yin – Data Science & AI Portfolio
+#  Shufen Yin – Data Science & AI Portfolio
 
 **Data Analyst | Aspiring Data Scientist | AI & Machine Learning**
 
@@ -19,7 +19,7 @@
 * **Multi-Model Benchmarking**: Compared **SARIMAX, GRU, and LSTM** using **TensorFlow/Keras** to track non-linear grid behaviors.
 * **Production-Ready Thinking**: Integrated **model persistence (.keras)** and **Azure ML** concepts for automated retraining and performance monitoring.
 
-👉 **Deep Learning | Feature Engineering | MLOps Thinking**
+ **Deep Learning | Feature Engineering | MLOps Thinking**
 
 ---
 
@@ -34,38 +34,38 @@
 
 ## 📊 Machine Learning Projects
 
-- 🔍 **[Credit Card Fraud Detection](链接)** – classification, imbalanced data handling, and model evaluation
-- 🔍 **[Medical Cost Prediction](链接)** – regression modeling
-- 🔍 **[Customer Segmentation](链接)** – unsupervised learning using K-Means clustering
-- 🔍 **[Stock Signal Prediction](链接)** – time series + regression
+-  **[Credit Card Fraud Detection](链接)** – classification, imbalanced data handling, and model evaluation
+-  **[Medical Cost Prediction](链接)** – regression modeling
+-  **[Customer Segmentation](链接)** – unsupervised learning using K-Means clustering
+-  **[Stock Signal Prediction](链接)** – time series + regression
 
 ---
 
 ## 🧱 Data Engineering & Analytics
 
-- 🛠️ **[Customer_Feedback_DB](链接)** – SQL querying & reporting
-- 🛠️ **[Data Parsing & ETL Pipeline](链接)** – automation & data processing
-- 🛠️ **[Sales Analysis](链接)** – historical trend analysis & visualization
-- 📊 **BI Dashboards** – Insights delivered via **Power BI and Tableau**
+-  **[Customer_Feedback_DB](链接)** – SQL querying & reporting
+-  **[Data Parsing & ETL Pipeline](链接)** – automation & data processing
+-  **[Sales Analysis](链接)** – historical trend analysis & visualization
+-  **BI Dashboards** – Insights delivered via **Power BI and Tableau**
 
 ---
 
 ## 🛠️ Skills & Tools
 
-### 🧠 AI & Machine Learning
+###  AI & Machine Learning
 - Time Series: ARIMA, SARIMAX, LSTM, GRU
 - NLP: text processing, classification, sentiment analysis
 - Deep Learning: TensorFlow, Keras
 
-### 📊 Data & Engineering
+###  Data & Engineering
 - Python (3.10), Pandas, NumPy, Scikit-learn
 - SQL, ETL pipelines, data cleaning
 
-### 📈 Visualization
+###  Visualization
 - Matplotlib, Seaborn
 - Power BI, Tableau
 
-### ⚙️ Concepts
+###  Concepts
 - Feature engineering (Dual-scaler strategy)
 - Model evaluation (RMSE, MAE, MAPE, ROC-AUC)
 - Deployment workflow & model monitoring (Azure ML concepts)
@@ -83,5 +83,5 @@
 
 ## 📬 Contact
 
-- 📧 Email: mickeyyinabc@gmail.com
-- 💻 GitHub: https://github.com/shufen-Yin
+-  Email: mickeyyinabc@gmail.com
+-  GitHub: https://github.com/shufen-Yin
