@@ -22,19 +22,6 @@
  **Deep Learning | Feature Engineering | MLOps Thinking**
 
 ---
-### 📊 Machine Learning Projects
-
-* 🔍 **[Credit Card Fraud Detection](./04_Python_ML_Projects)** – classification, imbalanced data handling, and model evaluation
-* 🔍 **[Medical Cost Prediction](./05_Advanced_Analysis)** – regression modeling
-* 🔍 **[Customer Segmentation](./05_Advanced_Analysis)** – unsupervised learning using K-Means clustering
-* 📈 **[Stock Signal Prediction](./07_Time_Series_Forecasting)** – time series + regression
-
-### 🧱 Data Engineering & Analytics
-
-* 🛠️ **[Customer_Feedback_DB](./02_SQL_Analysis)** – SQL querying & reporting
-* ⚙️ **[Data Parsing & ETL Pipeline](./03_Data_Engineering)** – automation & data processing
-* 📊 **[Sales Analysis](./01_Data_Analysis)** – historical trend analysis & visualization
-* 📈 **[BI Dashboards](./06_Visualizations)** – Insights delivered via Power BI and Tableau
 
 ## 🤖 AI & Deep Learning
 
@@ -43,29 +30,20 @@
 *  **Neural Networks** ([TensorFlow / Keras](./07_End_to_End_Electricity_Forecasting)) – Deep learning model architecture.
 *  **Feature engineering** for sequential & text data – Specialized data pre-processing.
 ---
+### 📊 Machine Learning Projects
 
-## 📊 Machine Learning Projects
+* 🔍 **[Credit Card Fraud Detection](./04_Python_ML_Projects/Credit_Card_Fraud_Detection)** – classification, imbalanced data handling, and model evaluation
+* 🔍 **[Medical Cost Prediction](./03_Heathlcare_Analytics/Medical_Cost_Prediction)** – regression modeling
+* 🔍 **[Customer Segmentation](./05_Advanced_Analysis/Customer_Segmentation)** – unsupervised learning using K-Means clustering
+* 📈 **[Stock Signal Prediction](./04_Python_ML_Projects/Stock_Signal_Prediction)** – time series + regression
 
--  **[Credit Card Fraud Detection](./04_Python_ML_Projects/Credit_Card_Fraud_Detection)** – classification, imbalanced data handling, and model evaluation – classification, imbalanced data handling, and model evaluation
--  **[Credit Card Fraud Detection](./04_Python_ML_Projects/Credit_Card_Fraud_Detection)** – classification, imbalanced data handling, and model evaluation – regression modeling
--  **[Customer Segmentation](链接)** – unsupervised learning using K-Means clustering
--  **[Stock Signal Prediction](链接)** – time series + regression
-*  **[Credit Card Fraud Detection](./04_Python_ML_Projects/Credit_Card_Fraud_Detection)** – classification, imbalanced data handling, and model evaluation
-* **[Medical Cost Prediction](./05_Advanced_Analysis/Medical_Cost_Prediction)** – regression modeling
-* **[Customer Segmentation](./05_Advanced_Analysis/Customer_Segmentation)** – unsupervised learning using K-Means clustering
-* **[Stock Signal Prediction](./07_Time_Series_Forecasting)** – time series + regression
----
+### 🧱 Data Engineering & Analytics
 
-## 🧱 Data Engineering & Analytics
+* 🛠️ **[Customer_Feedback_DB](./02_SQL_Data_Analysis/Customer_Feedback_DB)** – SQL querying & reporting
+* ⚙️ **[Data Parsing & ETL Pipeline](./02_SQL_Data_Analysis/Data_Parsing_Analysis)** – automation & data processing
+* 📊 **[Sales Analysis](./01_Basic_Data_Analysis/Sales_Analysis)** – historical trend analysis & visualization
+* 📈 **[BI Dashboards](./06_Data_Visualization)** – Insights delivered via Power BI and Tableau
 
--  **[Customer_Feedback_DB](链接)** – SQL querying & reporting
--  **[Data Parsing & ETL Pipeline](链接)** – automation & data processing
--  **[Sales Analysis](链接)** – historical trend analysis & visualization
--  **BI Dashboards** – Insights delivered via **Power BI and Tableau**
-* **[Customer_Feedback_DB](./02_SQL_Analysis)** – SQL querying & reporting
-* **[Data Parsing & ETL Pipeline](./03_Data_Engineering)** – automation & data processing
-* **[Sales Analysis](./01_Data_Analysis)** – historical trend analysis & visualization
-* **[BI Dashboards](./06_Visualizations)** – Insights delivered via Power BI and Tableau
 ---
 
 ## 🛠️ Skills & Tools
