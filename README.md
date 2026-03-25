@@ -25,24 +25,27 @@
 
 ## 🤖 AI & Deep Learning
 
-*  **Time Series Forecasting** ([SARIMAX, LSTM, GRU](./07_End_to_End_Electricity_Forecasting)) – High-precision demand prediction.
-*  **Natural Language Processing (NLP)** – [Text classification & Sentiment analysis](./04_Python_ML_Projects)
-*  **Neural Networks** ([TensorFlow / Keras](./07_End_to_End_Electricity_Forecasting)) – Deep learning model architecture.
-*  **Feature engineering** for sequential & text data – Specialized data pre-processing.
+*  **Time Series Forecasting** – [LSTM & GRU Models for Energy](./07_End_to_End_Electricity_Forecasting) (2.32% MAPE)
+*  **Neural Networks** – [Autoencoders for Dimensionality Reduction](./05_Advanced_Analysis/PCA_Neural_Network)
+*  **Natural Language Processing (NLP)** – [Sentiment Analysis & API Extension](./02_SQL_Data_Analysis/API_NLP_Extension)
+*  **Anomaly Detection** – [Density-based Outlier Detection (GMM/KDE)](./05_Advanced_Analysis/Anomaly_Detection) for Industrial IoT monitoring.
 ---
 ### 📊 Machine Learning Projects
 
-* 🔍 **[Credit Card Fraud Detection](./04_Python_ML_Projects/Credit_Card_Fraud_Detection)** – classification, imbalanced data handling, and model evaluation
-* 🔍 **[Medical Cost Prediction](./03_Heathlcare_Analytics/Medical_Cost_Prediction)** – regression modeling
-* 🔍 **[Customer Segmentation](./05_Advanced_Analysis/Customer_Segmentation)** – unsupervised learning using K-Means clustering
-* 📈 **[Stock Signal Prediction](./04_Python_ML_Projects/Stock_Signal_Prediction)** – time series + regression
+*  **[Credit Card Fraud Detection](./04_Python_ML_Projects/Credit_Card_Fraud_Detection)** – classification, imbalanced data handling, and model evaluation
+*  **[Medical Cost Prediction](./03_Heathlcare_Analytics/Medical_Cost_Prediction)** – regression modeling
+*  **[Customer Segmentation](./05_Advanced_Analysis/Customer_Segmentation)** – unsupervised learning using K-Means clustering
+*  **[Stock Signal Prediction](./04_Python_ML_Projects/Stock_Signal_Prediction)** – time series + regression
+*  **[Human Activity Recognition: PCA & Autoencoders](./05_Advanced_Analysis/PCA_Neural_Network)** – Dimensionality reduction using Linear PCA and Non-linear Neural Networks on sensor data.
+*  **[Industrial Sensor Anomaly Detection](./05_Advanced_Analysis/Anomaly_Detection)** – Unsupervised outlier detection using GMM and KDE density estimation on UCI Gas Sensor Array drift data.
 
 ### 🧱 Data Engineering & Analytics
 
-* 🛠️ **[Customer_Feedback_DB](./02_SQL_Data_Analysis/Customer_Feedback_DB)** – SQL querying & reporting
-* ⚙️ **[Data Parsing & ETL Pipeline](./02_SQL_Data_Analysis/Data_Parsing_Analysis)** – automation & data processing
-* 📊 **[Sales Analysis](./01_Basic_Data_Analysis/Sales_Analysis)** – historical trend analysis & visualization
-* 📈 **[BI Dashboards](./06_Data_Visualization)** – Insights delivered via Power BI and Tableau
+*  **[Customer_Feedback_DB](./02_SQL_Data_Analysis/Customer_Feedback_DB)** – SQL querying & reporting
+*  **[Data Parsing & ETL Pipeline](./02_SQL_Data_Analysis/Data_Parsing_Analysis)** – automation & data processing
+*  **[Sales Analysis](./01_Basic_Data_Analysis/Sales_Analysis)** – historical trend analysis & visualization
+*  **[BI Dashboards](./06_Data_Visualization)** – Insights delivered via Power BI and Tableau
+*  **[API & NLP Extension](./02_SQL_Data_Analysis/API_NLP_Extension)** – Transforming SQL feedback into text-based insights using Sentiment Analysis.
 
 ---
 
