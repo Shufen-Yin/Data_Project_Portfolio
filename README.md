@@ -7,10 +7,10 @@
 
 ### ⭐ Featured Project
 
-#### 🔥[End-to-End Electricity Demand Forecasting System](https://github.com/Shufen-Yin/Data_Project_Portfolio/tree/main/07_End_to_End_Electricity_Forecasting)
-* **Performance**: Achieved **2.32% MAPE** (80% improvement over baselines).
-* **Tech Stack**: LSTM, GRU, SARIMAX, Dual-scaler Feature Engineering, TensorFlow.
-* **Key Insight**: Resolved "flat-line" prediction via seasonal encoding and rolling windows.
+#### 🔥 [End-to-End Electricity Demand Forecasting System](./07_End_to_End_Electricity_Forecasting)
+* **High-precision AI**: Achieved **2.32% MAPE** using optimized **LSTM/GRU** pipelines.
+* **Engineering**: Resolved "flat-line" issues via **Dual-scaler** alignment and seasonal encoding.
+* **Cloud & MLOps**: Integrated **Azure ML** concepts for model monitoring and **.keras** persistence for production deployment.
 
 ---
 
@@ -33,10 +33,11 @@
 ---
 
 ### 🛠️ Skills Matrix
-* **ML/AI**: LSTM, GRU, SARIMAX, GMM, KDE, PCA, [Scikit-learn](https://scikit-learn.org/stable/), [Keras](https://keras.io/), [TensorFlow](https://www.tensorflow.org/).
-* **Tools**: [Python 3.10](https://www.python.org/), [SQL](https://www.w3schools.com/sql/), ETL, Feature Engineering.
-* **Viz**: [Power BI](https://powerbi.microsoft.com/), [Tableau](https://www.tableau.com/), [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/).
----
+
+* **AI & Machine Learning**: LSTM, GRU, SARIMAX, GMM, KDE, PCA, Scikit-learn, TensorFlow, Keras.
+* **Data Engineering**: Python (3.10), SQL (SQLite), ETL Pipeline, Feature Engineering (Dual-scaler).
+* **Cloud & MLOps**: **Azure Machine Learning**, Model Persistence (.keras), Production Workflow.
+* **Visualization**: Power BI, Tableau, Matplotlib, Seaborn.
 
 ### 📬 Contact
 * **Email**: mickeyyinabc@gmail.com
