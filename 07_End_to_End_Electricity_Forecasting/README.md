@@ -39,7 +39,7 @@ Initial deep learning models produced mean-reversion (constant average) predicti
 
 ## 5. 📂 File Structure & Descriptions
 
-* **`[Electricity_Forecasting.ipynb](url)`**: The complete research and development notebook covering EDA, modeling, and evaluation.
+* **`[Electricity_Forecasting.ipynb](https://github.com/Shufen-Yin/Data_Project_Portfolio/blob/main/07_End_to_End_Electricity_Forecasting/Electricity_Forecasting.ipynb)`**: The complete research and development notebook covering EDA, modeling, and evaluation.
 * **`electricity_consumption_3yrs.csv`**: The primary dataset containing 3 years of historical power load data.
 * **`electricity_demand_lstm.keras`**: The fully trained, production-ready LSTM model file.
 * **`scaler_X.pkl` & `scaler_y.pkl`**: Serialized pre-processing assets (Joblib) to ensure consistent scaling during inference.
