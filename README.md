@@ -22,6 +22,19 @@
  **Deep Learning | Feature Engineering | MLOps Thinking**
 
 ---
+### 📊 Machine Learning Projects
+
+* 🔍 **[Credit Card Fraud Detection](./04_Python_ML_Projects)** – classification, imbalanced data handling, and model evaluation
+* 🔍 **[Medical Cost Prediction](./05_Advanced_Analysis)** – regression modeling
+* 🔍 **[Customer Segmentation](./05_Advanced_Analysis)** – unsupervised learning using K-Means clustering
+* 📈 **[Stock Signal Prediction](./07_Time_Series_Forecasting)** – time series + regression
+
+### 🧱 Data Engineering & Analytics
+
+* 🛠️ **[Customer_Feedback_DB](./02_SQL_Analysis)** – SQL querying & reporting
+* ⚙️ **[Data Parsing & ETL Pipeline](./03_Data_Engineering)** – automation & data processing
+* 📊 **[Sales Analysis](./01_Data_Analysis)** – historical trend analysis & visualization
+* 📈 **[BI Dashboards](./06_Visualizations)** – Insights delivered via Power BI and Tableau
 
 ## 🤖 AI & Deep Learning
 
