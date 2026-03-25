@@ -8,9 +8,9 @@
 
 ## ⭐ Featured Project
 
-### 🔥 [End-to-End Electricity Demand Forecasting System](https://github.com/shufen-Yin/07_Time_Series_Forecasting)
+### 🔥[End-to-End Electricity Demand Forecasting System](./07_End_to_End_Electricity_Forecasting)
 
-![Electricity Demand Forecast Results](featured_project.png)
+![Electricity Forecast Results](./07_End_to_End_Electricity_Forecasting/featured_project.png)
 
 > **High-precision Time Series Forecasting: 2.32% MAPE**
 > Developed an optimized **LSTM** pipeline that improved accuracy by **80%** over traditional baselines.
@@ -25,20 +25,22 @@
 
 ## 🤖 AI & Deep Learning
 
-- **Time Series Forecasting** ([SARIMAX, LSTM, GRU](链接))
-- **Natural Language Processing (NLP)** – [text classification, sentiment analysis](链接)
-- **Neural Networks** ([TensorFlow / Keras](链接))
-- Feature engineering for **sequential & text data**
-
+*  **Time Series Forecasting** ([SARIMAX, LSTM, GRU](./07_End_to_End_Electricity_Forecasting)) – High-precision demand prediction.
+*  **Natural Language Processing (NLP)** – [Text classification & Sentiment analysis](./04_Python_ML_Projects)
+*  **Neural Networks** ([TensorFlow / Keras](./07_End_to_End_Electricity_Forecasting)) – Deep learning model architecture.
+*  **Feature engineering** for sequential & text data – Specialized data pre-processing.
 ---
 
 ## 📊 Machine Learning Projects
 
--  **[Credit Card Fraud Detection](链接)** – classification, imbalanced data handling, and model evaluation
--  **[Medical Cost Prediction](链接)** – regression modeling
+-  **[Credit Card Fraud Detection](./04_Python_ML_Projects/Credit_Card_Fraud_Detection)** – classification, imbalanced data handling, and model evaluation – classification, imbalanced data handling, and model evaluation
+-  **[Credit Card Fraud Detection](./04_Python_ML_Projects/Credit_Card_Fraud_Detection)** – classification, imbalanced data handling, and model evaluation – regression modeling
 -  **[Customer Segmentation](链接)** – unsupervised learning using K-Means clustering
 -  **[Stock Signal Prediction](链接)** – time series + regression
-
+*  **[Credit Card Fraud Detection](./04_Python_ML_Projects/Credit_Card_Fraud_Detection)** – classification, imbalanced data handling, and model evaluation
+* **[Medical Cost Prediction](./05_Advanced_Analysis/Medical_Cost_Prediction)** – regression modeling
+* **[Customer Segmentation](./05_Advanced_Analysis/Customer_Segmentation)** – unsupervised learning using K-Means clustering
+* **[Stock Signal Prediction](./07_Time_Series_Forecasting)** – time series + regression
 ---
 
 ## 🧱 Data Engineering & Analytics
@@ -47,7 +49,10 @@
 -  **[Data Parsing & ETL Pipeline](链接)** – automation & data processing
 -  **[Sales Analysis](链接)** – historical trend analysis & visualization
 -  **BI Dashboards** – Insights delivered via **Power BI and Tableau**
-
+* **[Customer_Feedback_DB](./02_SQL_Analysis)** – SQL querying & reporting
+* **[Data Parsing & ETL Pipeline](./03_Data_Engineering)** – automation & data processing
+* **[Sales Analysis](./01_Data_Analysis)** – historical trend analysis & visualization
+* **[BI Dashboards](./06_Visualizations)** – Insights delivered via Power BI and Tableau
 ---
 
 ## 🛠️ Skills & Tools
