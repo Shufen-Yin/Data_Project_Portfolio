@@ -24,8 +24,9 @@
 ---
 
 ### 🧱 Data Engineering & BI
+*  **[Sales Analysis](./01_Basic_Data_Analysis/Sales_Analysis)** – Historical trend analysis & visualization.
+*  **[Healthcare Analytics](./03_Healthcare_Analytics/Medical_Cost_Prediction)** – Statistical modeling for medical cost estimation.
 *  **[Automated ETL Pipeline](./02_SQL_Data_Analysis/Data_Parsing_Analysis)** – Python-based parsing and data processing.
-*  **[Sales & Healthcare Analysis](./03_Healthcare_Analytics/Medical_Cost_Prediction)** – Statistical modeling and trend visualization.
 *  **[BI Dashboards](./06_Data_Visualization)** – Insights delivered via **Power BI & Tableau**.
 *  **[Customer Feedback DB](./02_SQL_Data_Analysis/Customer_Feedback_DB)** – Structured SQL querying and reporting.
 
