@@ -25,10 +25,10 @@ This project focuses on predicting daily electricity consumption (MWh) by compar
 | **GRU (Optimized)** | 23.59 | 18.50 | 5.44% | Deep Learning |
 | **LSTM (32 neurons)** | **9.41** | **7.54** | **2.32%** | **Best Fit** |
 
-### 📈 Visualizing the Accuracy: LSTM vs. Actual Demand
-*(The chart below illustrates how the LSTM model (Red) precisely captures the non-linear peaks and valleys of the actual power load (Blue), maintaining a high degree of fidelity even during volatile demand periods.)*
+### 📈 High-Precision Visualization: Predicted vs. Actual Demand
+*(The following plot demonstrates the LSTM model's ability to track daily non-linear load variations with exceptional accuracy.)*
 
-![LSTM Prediction Accuracy](./Outputs/figures/prediction_vs_actual.png)
+![LSTM Prediction Accuracy](./featured_project.png)
 ---
 
 ## 4. Key Engineering Challenges & Solutions
@@ -43,12 +43,11 @@ Initial deep learning models produced mean-reversion (constant average) predicti
 
 ## 5. 📂 File Structure & Descriptions
 
-* **`[Electricity_Forecasting.ipynb](https://github.com/Shufen-Yin/Data_Project_Portfolio/blob/main/07_End_to_End_Electricity_Forecasting/Electricity_Forecasting.ipynb)`**: The complete research and development notebook covering EDA, modeling, and evaluation.
-* **`electricity_consumption_3yrs.csv`**: The primary dataset containing 3 years of historical power load data.
-* **`electricity_demand_lstm.keras`**: The fully trained, production-ready LSTM model file.
-* **`scaler_X.pkl` & `scaler_y.pkl`**: Serialized pre-processing assets (Joblib) to ensure consistent scaling during inference.
-* **`[featured_project.png](url)`**: Comparative visualization showcasing the 2.32% MAPE fit (Predicted vs. Actual demand).
-
+* **`Electricity_Forecasting.ipynb`**: Complete R&D notebook covering EDA, Model Benchmarking, and Evaluation.
+* **`electricity_consumption_3yrs.csv`**: Primary dataset containing 3 years of historical power load data (MWh).
+* **`electricity_demand_lstm.keras`**: The optimized, production-ready LSTM model (Native Keras format).
+* **`scaler_X.pkl` & `scaler_y.pkl`**: Serialized Joblib assets to ensure consistent scaling during real-time inference.
+* **`featured_project.png`**: Results visualization showcasing the **2.32% MAPE** fit (Predicted vs. Actual).
 ---
 
 ## 6. MLOps & Production Readiness
