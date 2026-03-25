@@ -25,6 +25,10 @@ This project focuses on predicting daily electricity consumption (MWh) by compar
 | **GRU (Optimized)** | 23.59 | 18.50 | 5.44% | Deep Learning |
 | **LSTM (32 neurons)** | **9.41** | **7.54** | **2.32%** | **Best Fit** |
 
+### 📈 Visualizing the Accuracy: LSTM vs. Actual Demand
+*(The chart below illustrates how the LSTM model (Red) precisely captures the non-linear peaks and valleys of the actual power load (Blue), maintaining a high degree of fidelity even during volatile demand periods.)*
+
+![LSTM Prediction Accuracy](./Outputs/figures/prediction_vs_actual.png)
 ---
 
 ## 4. Key Engineering Challenges & Solutions
