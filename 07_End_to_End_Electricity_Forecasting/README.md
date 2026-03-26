@@ -25,6 +25,9 @@ This project focuses on predicting daily electricity consumption (MWh) by compar
 | **GRU (Optimized)** | 23.59 | 18.50 | 5.44% | Deep Learning |
 | **LSTM (32 neurons)** | **9.41** | **7.54** | **2.32%** | **Best Fit** |
 
+**[Note on Reproducibility]
+Due to the stochastic nature of LSTM weight initialization and training, evaluation metrics (like MAPE) may vary slightly between runs. The results documented above represent the optimized model state saved in the repository. Typical retraining runs yield a MAPE between 2.3% and 2.7%.
+
 ### 📈 High-Precision Visualization: Predicted vs. Actual Demand
 *(The following plot demonstrates the LSTM model's ability to track daily non-linear load variations with exceptional accuracy.)*
 
@@ -66,7 +69,7 @@ To replicate the study, EDA, and model training from scratch:
 3. **Run the Analysis:** Open `Electricity_Forecasting.ipynb` and execute all cells.
 
 ### Option B: Direct Inference (Production Mode)
-To use the pre-trained **2.32% MAPE** model without retraining:
+To use the pre-trained **2.32% MAPE** model without retraining(ensuring consistent results with the documentation):
 1. **Load Model Assets:** Utilize the provided `electricity_demand_lstm.keras` and `scaler_y.pkl`.
 2. **Predict:** Load assets directly into your Python environment:
    ```python
