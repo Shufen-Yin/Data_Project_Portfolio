@@ -1,3 +1,4 @@
+[![Portfolio Quality Assurance](https://github.com/Shufen-Yin/Data_Project_Portfolio/actions/workflows/ci-data-pipeline.yml/badge.svg)](https://github.com/Shufen-Yin/Data_Project_Portfolio/actions/workflows/ci-data-pipeline.yml)
 #  Shufen Yin – Data Science & AI Portfolio
 
 **Data Analyst | Aspiring Data Scientist | AI & Machine Learning**
