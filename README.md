@@ -39,6 +39,8 @@
 * **Data Engineering**: Python (3.10), SQL (SQLite), ETL Pipeline, Feature Engineering (Dual-scaler).
 * **Cloud & MLOps**: **Azure Machine Learning**, Model Persistence (.keras), Production Workflow.
 * **Visualization**: Power BI, Tableau, Matplotlib, Seaborn.
+  
+### This repository is integrated with GitHub Actions for continuous integration, ensuring all Python scripts adhere to PEP 8 standards and maintain high code reliability.
 
 ### 📬 Contact
 * **Email**: mickeyyinabc@gmail.com
