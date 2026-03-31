@@ -9,7 +9,7 @@
 ### ⭐ Featured Project
 
 #### 🔥 [End-to-End Electricity Demand Forecasting System](./07_End_to_End_Electricity_Forecasting)
-* **High-precision AI**: Achieved **2.32% MAPE** using optimized **LSTM/GRU** pipelines.
+* **High-precision AI**: Achieved **2.51% MAPE** using optimized **LSTM/GRU** pipelines.
 * **Engineering**: Resolved "flat-line" issues via **Dual-scaler** alignment and seasonal encoding.
 * **Cloud & MLOps**: Integrated **Azure ML** concepts for model monitoring and **.keras** persistence for production deployment.
 
