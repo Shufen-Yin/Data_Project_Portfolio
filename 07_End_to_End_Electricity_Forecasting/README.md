@@ -1,14 +1,18 @@
 # End-to-End Electricity Demand Forecasting System
 
 ## 1. Project Overview
-This project focuses on predicting daily electricity consumption (MWh) by comparing classical statistical methods with modern deep learning architectures. The objective was to build a robust forecasting pipeline capable of capturing both linear seasonal trends and complex, non-linear grid behaviors.
+This project predicts daily electricity consumption (MWh) by benchmarking classical statistical models against modern deep learning architectures. The pipeline is engineered to capture both seasonal trends and complex, non-linear industrial load behaviors.
 
-**Key Result:** The optimized **LSTM** model achieved a high-precision forecast with a **MAPE of 2.32%**, significantly outperforming the AutoReg baseline (**14.64%**).
+**Key Result:** The optimized **LSTM** model achieved a high-precision forecast with a **MAPE of 2.51%**, significantly outperforming the AutoReg baseline (**14.64%**).
+
+### 💼 Business Value & Impact
+* **Operational Efficiency:** Tailored for industrial mining loads where precision directly informs multi-million dollar operational budgeting.
+* **Cost Reduction:** Minimizes grid over-provisioning and peak-demand penalties by providing superior forecasting accuracy.
+* **Scalability:** Architected for cloud deployment (Azure/AWS), supporting real-time monitoring and automated retraining.
 
 ---
 
 ## 2. Technical Stack
-- **Python Version:** 3.10
 - **Deep Learning:** TensorFlow 2.x, Keras (Native Keras format)
 - **Machine Learning:** Scikit-learn, SARIMAX (Statsmodels)
 - **Data Engineering:** Pandas, NumPy, Joblib
@@ -17,42 +21,41 @@ This project focuses on predicting daily electricity consumption (MWh) by compar
 ---
 
 ## 3. Model Performance Benchmarking
+*Evaluated on unseen test set (June 2022 – January 2023)*
 
-| Model | RMSE | MAE | MAPE (%) | Status |
-| :--- | :--- | :--- | :--- | :--- |
-| **AutoReg** | 51.25 | 45.94 | 14.64% | Baseline |
-| **SARIMAX (m=7)** | 24.45 | 20.66 | 6.53% | Statistical |
-| **GRU (Optimized)** | 23.59 | 18.50 | 5.44% | Deep Learning |
-| **LSTM (32 neurons)** | **9.41** | **7.54** | **2.32%** | **Best Fit** |
+| Model Architecture | RMSE | MAE | **MAPE (%)** | Status |
+| :--- | :---: | :---: | :---: | :--- |
+| 🏆 **LSTM (Long Short-Term Memory)** | **10.06** | **8.18** | **2.51%** | **Best Fit** |
+| 🥈 SARIMA (Seasonal) | 24.45 | 20.66 | 6.53% | Statistical |
+| 🥉 GRU (Gated Recurrent Unit) | 45.85 | 41.03 | 12.20% | Deep Learning |
+| ❌ AutoReg (Baseline) | 51.25 | 45.94 | 14.64% | Baseline |
 
- **[Note on Reproducibility]**
+> **[Note on Reproducibility]**
+> Global seeds are fixed for stability. However, due to the non-deterministic nature of GPU floating-point operations, minor variances (±0.2%) may occur across different hardware.
 
-Due to the stochastic nature of LSTM weight initialization and training, evaluation metrics (like MAPE) may vary slightly between runs. The results documented above represent the optimized model state saved in the repository. Typical retraining runs yield a MAPE between 2.3% and 2.7%.
-
-### 📈 High-Precision Visualization: Predicted vs. Actual Demand
-*(The following plot demonstrates the LSTM model's ability to track daily non-linear load variations with exceptional accuracy.)*
-
-![LSTM Prediction Accuracy](./featured_project.png)
----
-
-## 4. Key Engineering Challenges & Solutions
-
-### Overcoming the "Flat-Line" Prediction Issue
-Initial deep learning models produced mean-reversion (constant average) predictions. I implemented the following optimizations to resolve this:
-* **Dual-Scaler Alignment:** Utilized independent `MinMaxScaler` objects for features ($X$) and the target ($y$) to ensure accurate inverse transformations.
-* **Temporal Feature Engineering:** Engineered lag variables and rolling window statistics to provide the model with "historical context" for daily demand spikes.
-* **Data Leakage Prevention:** Strictly fit all scalers only on the training set to ensure the model's integrity for real-world deployment.
+### 📈 Prediction Visualization
+![Model Comparison](./model_comparison.png)
 
 ---
 
-## 5. 📂 File Structure & Descriptions
+## 4. Key Engineering Challenges
+* **The "Flat-Line" Issue:** Resolved mean-reversion predictions by implementing **Dual-Scaler Alignment** (independent scalers for $X$ and $y$).
+* **Temporal Context:** Engineered lag variables and rolling statistics to capture daily demand spikes.
+* **Data Integrity:** Strictly separated scaling fit-transforms to prevent data leakage during the training phase.
 
-* **`Electricity_Forecasting.ipynb`**: Complete R&D notebook covering EDA, Model Benchmarking, and Evaluation.
-* **`electricity_consumption_3yrs.csv`**: Primary dataset containing 3 years of historical power load data (MWh).
-* **`electricity_demand_lstm.keras`**: The optimized, production-ready LSTM model (Native Keras format).
-* **`scaler_X.pkl` & `scaler_y.pkl`**: Serialized Joblib assets to ensure consistent scaling during real-time inference.
-* **`featured_project.png`**: Results visualization showcasing the **2.32% MAPE** fit (Predicted vs. Actual).
 ---
+
+## 5. Project Structure
+```text
+07_End_to_End_Electricity_Forecasting/
+├── electricity_consumption_3yrs.csv  # Historical load dataset
+├── Electricity_Forecasting.ipynb    # Research & EDA notebook
+├── energy_demand_pipeline.py        # Production-ready Python script
+├── model_comparison.png             # Performance visualization
+├── electricity_demand_lstm.keras    # Trained LSTM model
+├── scaler_X.pkl / scaler_y.pkl      # Serialized scaling assets
+├── requirements.txt                 # Project dependencies
+└── README.md                        # Documentation
 
 ## 6. MLOps & Production Readiness
 * **Model Persistence:** Final assets are saved as `.keras` and `.pkl` for instant inference without retraining.
@@ -70,7 +73,7 @@ To replicate the study, EDA, and model training from scratch:
 3. **Run the Analysis:** Open `Electricity_Forecasting.ipynb` and execute all cells.
 
 ### Option B: Direct Inference (Production Mode)
-To use the pre-trained **2.32% MAPE** model without retraining(ensuring consistent results with the documentation):
+To use the pre-trained **2.51% MAPE** model without retraining(ensuring consistent results with the documentation):
 1. **Load Model Assets:** Utilize the provided `electricity_demand_lstm.keras` and `scaler_y.pkl`.
 2. **Predict:** Load assets directly into your Python environment:
    ```python
